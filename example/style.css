@@ -1,0 +1,11 @@
+.form {
+  margin: auto;
+  box-shadow: shallow; // nope
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.form--label {
+  color: grays.800; // nope
+  font-size: 16px;
+  margin-bottom: 4px;
+}

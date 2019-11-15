@@ -1,0 +1,23 @@
+{
+  "name": "styled.css",
+  "version": "0.0.1",
+  "description": "Extract css from *.style.js files",
+  "main": "index.js",
+  "scripts": {
+    "example": "cd example && node ../index --theme theme/theme.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "@babel/register": "^7.7.0",
+    "glob": "^7.1.6",
+    "lodash.kebabcase": "^4.1.1",
+    "lodash.uniq": "^4.5.0",
+    "styled-system": "^5.1.2",
+    "yargs-parser": "^16.1.0"
+  }
+}

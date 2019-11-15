@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "private": "true",
+  "scripts": {
+    "css": "styled.css --theme theme/theme.js"
+  },
+  "devDependencies": {
+    "@ds-tools/styled.css": "0.0.1"
+  }
+}
